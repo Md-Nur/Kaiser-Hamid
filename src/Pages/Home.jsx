@@ -12,7 +12,7 @@ export default function Home() {
           </div>
         </div>
         <div className="text-center">
-          <h1 className="text-2xl font-bold">Kaiser Hamid</h1>
+          <h1 className="text-2xl font-bold">Mahim Ahmed</h1>
           <h2 className="text-xl font-bold">Incoming PhD student</h2>
           <a
             href="https://www.ttu.edu/"

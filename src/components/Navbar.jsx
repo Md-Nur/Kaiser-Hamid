@@ -57,7 +57,7 @@ const Navbar = () => {
           </ul>
         </div>
         <NavLink to="/" className="btn btn-ghost text-xl">
-          Kaiser Hamid
+          Mahim Ahmed
         </NavLink>
       </div>
       <div className="navbar-start hidden lg:flex w-full mx-10">
